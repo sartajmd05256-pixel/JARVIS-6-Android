@@ -1,2 +1,10 @@
 # JARVIS-6-Android
 My personal JARVIS AI Android assistant
+<resources>
+<style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+<item name="android:fontFamily">sans</item>
+<item name="android:windowLightStatusBar">false</item>
+<item name="android:statusBarColor">#06111F</item>
+<item name="android:navigationBarColor">#06111F</item>
+</style>
+</resources>
